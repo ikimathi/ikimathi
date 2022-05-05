@@ -1,2 +1,2 @@
 username: ikimathi
-email:kimathiian12@gmail.com
+email: kimathiian12@gmail.com
